@@ -1,4 +1,4 @@
 # Hello-world
 <Style>
- background-colore: #FFFFFF
+ background-color: #FFFFFF
  </Style> 
